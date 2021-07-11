@@ -1,0 +1,21 @@
+#Ignore VS 
+*.sln
+*.filters
+*.sdf
+*.suo
+*.vs
+*.user
+*.vcxproj
+*.log
+
+#Ignore Debug
+*Debug/
+
+#Ignore ipch
+*ipch/
+
+#Ignore To_Offer/
+To_Offer/
+
+#Ignore test
+Algorithm/search_and_sort_algorithm/test/
